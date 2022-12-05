@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 body 
 {
     color: blue;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+=======
+body
+{
+    color: brown;
+    text-align: center;
+    text-decoration: double;
+
+>>>>>>> cabecera
 }
